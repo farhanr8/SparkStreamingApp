@@ -23,9 +23,9 @@ Prerequisites:
  - SBT (version 1.5.1)
  - Zookeeper
  - Kafka
- - ElasticSearch
- - Kibana
- - Logstash
+ - ElasticSearch (7.12.1)
+   - Kibana
+   - Logstash
 
 Create a Twitter Developer account at https://apps.twitter.com
 This will give you certain credentials like the consumer key and the access tokens. Please fill in the appropriate fields in the _src/main/resources/app.properties_ file.
