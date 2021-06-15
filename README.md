@@ -10,7 +10,7 @@ This Spark Streaming application continuously reads data from Twitter about some
 <p align="center">Figure 1. Donut Visualization</p>
 
 
-![alt text](https://github.com/farhanr8/SparkStreamingApp/blob/master/images/Picture2.png "Figure 1")
+![alt text](https://github.com/farhanr8/SparkStreamingApp/blob/master/images/Picture2.png "Figure 2")
 <p align="center">Figure 2. Elastic Search Dashboard</p>
 
 
@@ -21,8 +21,8 @@ Prerequisites:
  - Scala (version 2.12.10)
  - Spark (version 3.1.1)
  - SBT (version 1.5.1)
- - Zookeeper
  - Kafka (2.7.0)
+   - Zookeeper
  - ElasticSearch (7.12.1)
    - Kibana
    - Logstash
