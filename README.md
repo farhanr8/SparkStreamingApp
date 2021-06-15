@@ -22,7 +22,7 @@ Prerequisites:
  - Spark (version 3.1.1)
  - SBT (version 1.5.1)
  - Zookeeper
- - Kafka
+ - Kafka (2.7.0)
  - ElasticSearch (7.12.1)
    - Kibana
    - Logstash
